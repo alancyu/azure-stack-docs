@@ -35,7 +35,7 @@ This script can be used to:
 > * Launch a category of tests, like *integration*, *functional*, *reliability*
 > * Report test results
 
-## Launch the Test Pass workflow
+## Launch the Test Pass workflow Test only
 
 1. Open an elevated PowerShell prompt.
 
